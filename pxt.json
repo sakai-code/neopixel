@@ -11,7 +11,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts"
+        "custom.ts",
+        "_locales/ja/neopixel-strings.json"
     ],
     "testFiles": [
         "test.ts"
