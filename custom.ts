@@ -485,7 +485,7 @@ namespace neopixel {
     /**
      * Create a new NeoPixel driver for `numleds` LEDs.
      * @param pin the pin where the neopixel is connected.
-     * @param numleds number of leds in the strip, eg: 24,30,60,64
+     * @param numleds number of leds in the strip, eg: 4,24,30,60,64
      */
     //% blockId="neopixel_create" block="NeoPixel at pin with %numleds|leds as %mode"
     //% weight=90 blockGap=8
